@@ -2,7 +2,7 @@
   "name": "@doodaswap-libs/dooda-swap-core",
   "description": "🎛 Core contracts for the dooda protocol",
   "version": "0.1.0",
-  "homepage": "https://doodaswap.finance",
+  "homepage": "https://pancakeswap.finance",
   "repository": {
     "type": "git",
     "url": "https://github.com/techroad-community/dooda-swap-core.git"

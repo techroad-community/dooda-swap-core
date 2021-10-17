@@ -1,7 +1,7 @@
 {
   "name": "@doodaswap-libs/dooda-swap-core",
   "description": "🎛 Core contracts for the dooda protocol",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "homepage": "https://pancakeswap.finance",
   "repository": {
     "type": "git",
